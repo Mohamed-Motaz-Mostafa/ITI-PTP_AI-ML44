@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697401871 source:c:\users\hp\desktop\iti\c programing language\c programing language\tasks\employee\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1700656495 source:d:\study\iti\c programing language\mytasks\employee + employee dynamic\main.c
+	<stdio.h>
+	<stdlib.h>
+

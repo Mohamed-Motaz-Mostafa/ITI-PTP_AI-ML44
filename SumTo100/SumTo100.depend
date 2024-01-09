@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700655573 source:d:\study\iti\c programing language\mytasks\sumto100\main.c
+	<stdio.h>
+	<stdlib.h>
+

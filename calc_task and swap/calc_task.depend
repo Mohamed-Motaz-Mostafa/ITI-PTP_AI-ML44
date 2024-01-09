@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697305861 source:c:\users\hp\desktop\iti\c programing language\c programing language\tasks\calc_task\main.c
+	<stdio.h>
+	<stdlib.h>
+

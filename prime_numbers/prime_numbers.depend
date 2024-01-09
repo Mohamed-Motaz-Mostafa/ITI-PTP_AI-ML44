@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1696850973 source:c:\users\adel\desktop\day2\prime_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1696850973 source:d:\study\iti\c programing language\labs solution\day2\prime_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

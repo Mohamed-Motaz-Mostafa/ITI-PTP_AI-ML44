@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1696936835 source:c:\users\adel\desktop\day3\two_dim_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1696937059 source:d:\study\iti\c programing language\labs solution\day3\two_dim_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

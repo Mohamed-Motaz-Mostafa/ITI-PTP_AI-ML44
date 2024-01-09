@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697451150 source:d:\study\iti\c programing language\labs solution\day7\1d-array-dynamic\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1697451150 source:d:\study\iti\c programing language\mytasks\1d-array-dynamic\main.c
+	<stdio.h>
+	<stdlib.h>
+

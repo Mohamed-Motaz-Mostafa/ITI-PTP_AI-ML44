@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699642112 source:d:\study\iti\c++\person\main.cpp
+	<iostream>
+	<string.h>
+
